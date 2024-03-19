@@ -45,7 +45,7 @@ c) 0, 1, 4, 9, 16, 25, 36, <strong>49</strong>
 
 d) 4, 16, 36, 64, <strong>100</strong>
 
-e) 1, 1, 2, 3, 5, 8,<strong>13</strong
+e) 1, 1, 2, 3, 5, 8,<strong>13</strong>
                                  
 f) 2,10, 12, 16, 17, 18, 19, <strong>20</strong>
 
